@@ -6,7 +6,7 @@ Welcome to my Spatial Science Portfolio!
 
 ### Work Experience
 - Intern, RASA Surveying and Realty, (July to August 2024)
-- Intern, Aboitiz Foundation
+- Intern, Aboitiz Foundation, (October 2024 to Present)
 
 ### Projects
 [Analyzing Urban Development in Mandaluyong City Using OpenStreetMap Data](https://colab.research.google.com/drive/1htonFQhc6dND-O49VGIYDOXPPmow5wW6?usp=sharing)
